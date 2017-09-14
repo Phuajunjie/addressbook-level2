@@ -8,7 +8,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class UtilsTest {
-
+// Junit test for isAnyNull
     @Test
     public void isAnyNull() throws Exception {
         //empty list
