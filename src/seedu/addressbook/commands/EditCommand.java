@@ -63,4 +63,7 @@ public class EditCommand extends Command {
         }
         return new CommandResult(MESSAGE.trim());
     }
+    public boolean isMutating(){
+        return true;
+    }
 }
