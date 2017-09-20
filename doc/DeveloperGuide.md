@@ -6,6 +6,7 @@
 
 * JDK 8 or later 
 * IntelliJ IDE
+* Requires at least 5MB
 
 **Importing the project into IntelliJ**
 
